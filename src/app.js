@@ -4,7 +4,7 @@ const weather=require(path.join(__dirname,'../utils/wheather'))
 const express=require('express')
 
 console.log(__dirname)
-// console.log(__filename)
+// console.log(__filenames
 
 console.log(path.join(__dirname,'../public'))
 const app=express()
